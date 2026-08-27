@@ -64,9 +64,15 @@
     "testId": 3
   },
   {
-    "commitId": "HEAD",
+    "commitId": "8b1402303fe3767848bb5d5baca1ed2929c48344",
     "commitName": "feat: validar iguales",
     "commitTimestamp": 1787839270576,
     "testId": 4
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: validar todo",
+    "commitTimestamp": 1787839314714,
+    "testId": 5
   }
 ]

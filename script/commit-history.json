@@ -76,12 +76,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "8b1402303fe3767848bb5d5baca1ed2929c48344",
     "author": "Alvaro Nina",
     "commit": {
       "date": "2026-08-27T14:01:08.000Z",
       "message": "feat: validar iguales",
-      "url": "https://github.com/alvaroninav-ship-it/CatalogadorFizzBuzz/commit/HEAD"
+      "url": "https://github.com/alvaroninav-ship-it/CatalogadorFizzBuzz/commit/8b1402303fe3767848bb5d5baca1ed2929c48344"
     },
     "stats": {
       "total": 3,
@@ -91,6 +91,25 @@
     },
     "coverage": 90,
     "test_count": 5,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Alvaro Nina",
+    "commit": {
+      "date": "2026-08-27T14:01:52.000Z",
+      "message": "feat: validar todo",
+      "url": "https://github.com/alvaroninav-ship-it/CatalogadorFizzBuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 2,
+      "deletions": 2,
+      "date": "2026-08-27"
+    },
+    "coverage": 100,
+    "test_count": 6,
     "failed_tests": 0,
     "conclusion": "success"
   }
