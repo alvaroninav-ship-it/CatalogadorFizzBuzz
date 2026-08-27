@@ -19,12 +19,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "4a337ab024f311afd6821c2574bd1df867678960",
     "author": "Alvaro Nina",
     "commit": {
       "date": "2026-08-27T13:57:50.000Z",
       "message": "feat: catalogar 0",
-      "url": "https://github.com/alvaroninav-ship-it/CatalogadorFizzBuzz/commit/HEAD"
+      "url": "https://github.com/alvaroninav-ship-it/CatalogadorFizzBuzz/commit/4a337ab024f311afd6821c2574bd1df867678960"
     },
     "stats": {
       "total": 0,
@@ -34,6 +34,25 @@
     },
     "coverage": 100,
     "test_count": 6,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Alvaro Nina",
+    "commit": {
+      "date": "2026-08-27T13:59:06.000Z",
+      "message": "feat: catalogar multiplos de 5",
+      "url": "https://github.com/alvaroninav-ship-it/CatalogadorFizzBuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 4,
+      "deletions": 4,
+      "date": "2026-08-27"
+    },
+    "coverage": 50,
+    "test_count": 2,
     "failed_tests": 0,
     "conclusion": "success"
   }
