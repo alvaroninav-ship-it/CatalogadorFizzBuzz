@@ -32,9 +32,23 @@
     "testId": 0
   },
   {
-    "commitId": "HEAD",
+    "commitId": "1073365775f0395c454abcbbc904ec9fe7992f25",
     "commitName": "feat: Catalogador FizzBuzz",
     "commitTimestamp": 1787837748445,
     "testId": 0
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1787838855211,
+    "success": true,
+    "testId": 1
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: catalogar 0",
+    "commitTimestamp": 1787839072595,
+    "testId": 1
   }
 ]

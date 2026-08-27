@@ -1,16 +1,35 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "1073365775f0395c454abcbbc904ec9fe7992f25",
     "author": "Alvaro Nina",
     "commit": {
       "date": "2026-08-27T13:35:47.000Z",
       "message": "feat: Catalogador FizzBuzz",
-      "url": "https://github.com/alvaroninav-ship-it/CatalogadorFizzBuzz/commit/HEAD"
+      "url": "https://github.com/alvaroninav-ship-it/CatalogadorFizzBuzz/commit/1073365775f0395c454abcbbc904ec9fe7992f25"
     },
     "stats": {
       "total": 63,
       "additions": 49,
       "deletions": 14,
+      "date": "2026-08-27"
+    },
+    "coverage": 100,
+    "test_count": 6,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Alvaro Nina",
+    "commit": {
+      "date": "2026-08-27T13:57:50.000Z",
+      "message": "feat: catalogar 0",
+      "url": "https://github.com/alvaroninav-ship-it/CatalogadorFizzBuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 0,
+      "additions": 0,
+      "deletions": 0,
       "date": "2026-08-27"
     },
     "coverage": 100,
