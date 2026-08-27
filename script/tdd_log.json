@@ -52,9 +52,15 @@
     "testId": 1
   },
   {
-    "commitId": "HEAD",
+    "commitId": "55c28ff5ee7b7c1c93644e558ec5ddaa847c5e53",
     "commitName": "feat: catalogar multiplos de 5",
     "commitTimestamp": 1787839149406,
     "testId": 2
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: validar multiplos de ambos casos",
+    "commitTimestamp": 1787839205373,
+    "testId": 3
   }
 ]
