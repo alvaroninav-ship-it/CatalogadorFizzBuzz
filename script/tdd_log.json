@@ -58,9 +58,15 @@
     "testId": 2
   },
   {
-    "commitId": "HEAD",
+    "commitId": "569d9f87304e32a3578a769247d222fae38dd562",
     "commitName": "feat: validar multiplos de ambos casos",
     "commitTimestamp": 1787839205373,
     "testId": 3
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: validar iguales",
+    "commitTimestamp": 1787839270576,
+    "testId": 4
   }
 ]
